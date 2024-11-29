@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Agustín</h1>
 <h3 align="center">A passionate computer engineering student at UNLaM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agustin-zabalgoitia&label=Profile%20views&color=0e75b6&style=flat" alt="agustin-zabalgoitia" /> </p>
-
 - 🔭 I’m currently working on [Shindow, a ssh web client](https://github.com/MatiasFranco289/Shindow)
 
 - 🌱 I’m currently learning **computer complexity and data structure in C**
