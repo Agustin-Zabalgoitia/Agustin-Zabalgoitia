@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **computer complexity and data structure in C**
 
-- 📫 How to reach me **aguszabalgoitia@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
