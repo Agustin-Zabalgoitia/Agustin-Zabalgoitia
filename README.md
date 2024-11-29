@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustin-zabalgoitia&label=Profile%20views&color=0e75b6&style=flat" alt="agustin-zabalgoitia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustin-zabalgoitia" alt="agustin-zabalgoitia" /></a> </p>
-
 - 🔭 I’m currently working on [Shindow, a ssh web client](https://github.com/MatiasFranco289/Shindow)
 
 - 🌱 I’m currently learning **computer complexity and data structure in C**
