@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **computer complexity and data structure in C**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
