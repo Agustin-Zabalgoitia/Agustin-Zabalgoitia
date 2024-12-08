@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shindow, a ssh web client](https://github.com/MatiasFranco289/Shindow)
 
-- 🌱 I’m currently learning **computer complexity and data structure in C**
+- 🌱 I’m currently learning **how to set up a typescript project**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
