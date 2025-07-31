@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Agustín</h1>
 <h3 align="center">A passionate computer engineering student at UNLaM</h3>
 
-- 🔭 I’m currently working on [Shindow, a ssh web client](https://github.com/MatiasFranco289/Shindow)
+- 🔭 I’m currently working on [Simple Blog API](https://github.com/Agustin-Zabalgoitia/Simple-Blog-API)
 
 - 🌱 I’m currently learning **how to set up a typescript project**
 
