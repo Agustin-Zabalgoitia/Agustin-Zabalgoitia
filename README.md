@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LyC Compiler](https://github.com/Agustin-Zabalgoitia/LyC-Compiler)
 
-- 🌱 I’m currently learning **how to set up a typescript project**
+- 🌱 I’m currently learning **how to make a compiler**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
